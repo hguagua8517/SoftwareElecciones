@@ -88,7 +88,7 @@ public class FrmGestorCandidato extends javax.swing.JFrame {
 
         comboPartido.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Democrata", "De la U", "Liberal", "Pacto histórico" }));
 
-        comboCiudadOrigen.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Armenia", "Bogotá", "Cali", "Manizales", "medellín" }));
+        comboCiudadOrigen.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Armenia", "Barranquilla", "Bogotá", "Bucaramanga", "Cali", "Manizales", "Medellín", "Monteria", "Pereira", "Quibdo" }));
 
         campoDescripcion.setColumns(20);
         campoDescripcion.setRows(5);

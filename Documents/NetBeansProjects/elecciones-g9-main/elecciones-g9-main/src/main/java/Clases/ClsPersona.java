@@ -6,6 +6,7 @@ package Clases;
  */
 public class ClsPersona {
 
+    
     private String numeroDocumento;
     private String nombre;
     private String telefono;
@@ -16,6 +17,7 @@ public class ClsPersona {
         this.nombre = nombre;
         this.telefono = telefono;
         this.correo = correo;
+        
     }
 
     public String getNumeroDocumento() {
@@ -49,7 +51,7 @@ public class ClsPersona {
     public void setCorreo(String correo) {
         this.correo = correo;
     }
-    
-    
+
+   
 
 }

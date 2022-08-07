@@ -232,12 +232,17 @@
             <Component class="javax.swing.JComboBox" name="comboCiudadOrigen">
               <Properties>
                 <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
-                  <StringArray count="5">
+                  <StringArray count="10">
                     <StringItem index="0" value="Armenia"/>
-                    <StringItem index="1" value="Bogot&#xe1;"/>
-                    <StringItem index="2" value="Cali"/>
-                    <StringItem index="3" value="Manizales"/>
-                    <StringItem index="4" value="medell&#xed;n"/>
+                    <StringItem index="1" value="Barranquilla"/>
+                    <StringItem index="2" value="Bogot&#xe1;"/>
+                    <StringItem index="3" value="Bucaramanga"/>
+                    <StringItem index="4" value="Cali"/>
+                    <StringItem index="5" value="Manizales"/>
+                    <StringItem index="6" value="Medell&#xed;n"/>
+                    <StringItem index="7" value="Monteria"/>
+                    <StringItem index="8" value="Pereira"/>
+                    <StringItem index="9" value="Quibdo"/>
                   </StringArray>
                 </Property>
               </Properties>
